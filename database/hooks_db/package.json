@@ -1,5 +1,5 @@
 {
-  "name": "hooks_db",
+  "name": "@hooks_db",
   "module": "index.ts",
   "type": "module",
   "private": true,
