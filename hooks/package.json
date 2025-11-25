@@ -4,14 +4,14 @@
   "type": "module",
   "private": true,
   "devDependencies": {
-    "@types/bun": "latest"
+    "@types/bun": "latest",
+    "@hooks_db": "../database/hooks_db"
   },
   "peerDependencies": {
     "typescript": "^5"
   },
   "dependencies": {
     "@types/express": "^5.0.5",
-    "express": "^5.1.0",
-    "@hooks_db": "../database/hooks_db"
+    "express": "^5.1.0"
   }
 }
